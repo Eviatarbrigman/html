@@ -1,0 +1,42 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+  height: 300px;
+
+}
+
+h2 { color: DodgerBlue; font-family: 'Open Sans', sans-serif; font-size: 45px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+ 
+body {
+	font-family: Arial; font-size: 24 ; text-align: center;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  border-color : green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+ ol {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
